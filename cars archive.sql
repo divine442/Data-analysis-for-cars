@@ -1,6 +1,6 @@
 SELECT * FROM carprice_assignment;
 
-## Alterinthe table name to make it easier to call in the dataset
+## Altering the table name to make it easier to call in the dataset
 ALTER TABLE carprice_assignment
 RENAME TO cars;
 
@@ -69,7 +69,7 @@ FROM cars
 WHERE fueltype = 'diesel'
 GROUP BY CarName, fueltype,  price ;
 
-## Cars with gas fueltype are more common and hence the amount used is significantly greater than than of cars wuth diesel
+## Cars with gas fueltype are more common and hence the amount used is significantly greater than than of cars with diesel
 
 
 
