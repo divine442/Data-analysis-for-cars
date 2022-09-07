@@ -27,7 +27,7 @@ SELECT  CarName, price
   
  
  ## which door is the most common type and do they differ in price
- ## First we check the hihest number of occuring doors in cars
+ ## First we check the highest number of occuring doors in cars
  SELECT doornumber
 FROM cars
 GROUP BY doornumber
