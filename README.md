@@ -5,13 +5,18 @@ This project contains sql queries that was written to perform analysis on the ca
 
 # Questions
 The analysis will answer the following questions;
+
 Total sum of prices in the data set
+
 The cars with the highest price number
+
 The most common door type and how they differ in price
+
 Does the engine location affect the price of the cars
+
 relationship between cars that uses diesel and gas
 
-#Data visualization in power Bi 
+# Data visualization in power Bi 
 The file below is a pdf file of the data visualization created for the cars analysis
 
 [cars.pdf](https://github.com/divine442/Data-analysis-for-cars/files/9497521/cars.pdf)
