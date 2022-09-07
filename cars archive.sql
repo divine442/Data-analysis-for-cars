@@ -19,6 +19,10 @@ WHERE coalesce(car_ID, symboling, CarName, fueltype, doornumber, carbody, drivew
 
 ### There is no null value in the data set so we move on with the data analysis
 
+## The total sum of prices in the dataset
+SELECT SUM(price)
+FROM cars;
+
 ## select the 5 cars with the highest price
 
 SELECT  CarName, price
