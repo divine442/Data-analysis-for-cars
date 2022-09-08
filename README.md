@@ -17,6 +17,11 @@ Does the engine location affect the price of the cars
 relationship between cars that uses diesel and gas
 
 # Data visualization in power Bi 
+
+![carsss-0000](https://user-images.githubusercontent.com/106608353/189084761-c38a3436-9827-4bb5-9f50-dd19c2dc011f.png)
+
+![carsss-0001](https://user-images.githubusercontent.com/106608353/189084809-1b67f1fb-4564-47da-80c8-9eacd175ef30.png)
+
 The file below is a pdf file of the data visualization created for the cars analysis
 
 [cars.pdf](https://github.com/divine442/Data-analysis-for-cars/files/9497521/cars.pdf)
